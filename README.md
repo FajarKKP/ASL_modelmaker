@@ -10,5 +10,10 @@ In this project we use efficientNet for transfer learning, after the efficientNe
 Android repository can be seen here: https://github.com/fariqkr/SignForYou
 
 # Translation Demo
+Steps to use translate feature:
+1. on the top line, the application will detect the letters in realtime
+2. wait until the letters that are detected doesn't change
+3. press the checklist button to store letters
+
 https://user-images.githubusercontent.com/65539981/121313441-96c46a80-c930-11eb-9a8f-2bad94213cc0.mp4
 
